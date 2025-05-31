@@ -106,12 +106,6 @@ Sinta-se à vontade para:
 
 ---
 
-## 📄 Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
-
 ## 🙌 Autor
 
 Desenvolvido por Yan Carlos da Silva
