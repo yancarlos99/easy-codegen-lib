@@ -1,0 +1,4 @@
+br/com/easy/codegen/EasyCodeGen.class
+br/com/easy/codegen/qrcode/WifiEncryptionEnum.class
+br/com/easy/codegen/qrcode/QRCodeGenerator.class
+br/com/easy/codegen/qrcode/QRCode.class
