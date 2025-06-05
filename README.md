@@ -10,9 +10,9 @@ Adicione a dependência no seu `pom.xml`:
 
 ```xml
 <dependency>
-    <groupId>br.com.easy</groupId>
+    <groupId>io.github.yancarlos99</groupId>
     <artifactId>easy-codegen-lib</artifactId>
-    <version>1.0.0</version>
+    <version>1.0</version>
 </dependency>
 ```
 
